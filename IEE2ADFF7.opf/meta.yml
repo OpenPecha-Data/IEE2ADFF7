@@ -1,0 +1,36 @@
+id: IEE2ADFF7
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:01:13.839436'
+last_modified: '2022-06-19T01:01:13.839451'
+parser: null
+source_metadata:
+  title: Grags pa rgyal mtshans Tree of Realization, block print, colophon excerpt
+  author: རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2014-11-12);
+    thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:བློ་གསལ་དོན་གྲུབ། (ld)
+  text_witnesses: https://sakyaresearch.org/sources/946
+  bases:
+    7a55:
+      title: Grags pa rgyal mtshans Tree of Realization, block print, colophon excerpt
+      order: 1
+      base_file: 7a55.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
